@@ -5,4 +5,4 @@ Conway's Game of Life created using P5.js.
 - Supports saving & loading of grid systems
 - Infinite grid system
 
-**Try it here:** https://games.mauritzonline.com/conways_game_of_life/
+**Try it here:** https://games.mauritzonline.com/game/conways_game_of_life/
